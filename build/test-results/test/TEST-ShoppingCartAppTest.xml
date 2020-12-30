@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShoppingCartAppTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-09-24T11:22:02" hostname="INML70XCMD6N" time="0.006">
+  <properties/>
+  <testcase name="testAddProductOnBuyXGetYPercentageDiscount" classname="ShoppingCartAppTest" time="0.002"/>
+  <testcase name="testCreateEmotyShoppingCart" classname="ShoppingCartAppTest" time="0.0"/>
+  <testcase name="testAddProductWithDifferentPromotuon" classname="ShoppingCartAppTest" time="0.003"/>
+  <testcase name="testAddProductOnBuyXgetYFree" classname="ShoppingCartAppTest" time="0.001"/>
+  <testcase name="testAddOneProductToTheCart" classname="ShoppingCartAppTest" time="0.0"/>
+  <testcase name="testAddDifferentProductToTheCart" classname="ShoppingCartAppTest" time="0.0"/>
+  <system-out><![CDATA[oneitemprice   30.0
+oneitemprice   30.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
